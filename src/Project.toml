@@ -1,0 +1,4 @@
+name = "SetGame"
+uuid = "c0ba8afa-58e8-4f15-8246-1643062eaf5f"
+authors = ["A. Yavorsky <iavorskii.ar@phystech.edu>"]
+version = "0.1.0"
